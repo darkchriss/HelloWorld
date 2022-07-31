@@ -1,2 +1,2 @@
 # HelloWorld
-HelloWolrd est mon premier programme en C# créer lors d'une formation, dans le future HelloWorld sera modifié et mis à jour
+HelloWorld est un programme C# s'éxécutant dans un terminal, il n'effectue rien de particulier pour le moment mais il sera amener à être mis à jour régulièrement
